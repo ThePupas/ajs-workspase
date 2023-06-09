@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "ajs-homeworks-workspace"
+    "url": "ajs-workspace"
   },
   "keywords": [
     "game"
   ],
-  "author": "Nadya",
+  "author": "ThePupas",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.20.7",
